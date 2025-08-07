@@ -17,7 +17,7 @@ This project is a web-based application built with **Flask** and **CNN (Convolut
 
 ## Technologies Used
 
-| Category     | Tools/Libraries                          |
+| Category     | Tools/Libraries                           |
 |--------------|-------------------------------------------|
 | **Frontend** | HTML, CSS                                 |
 | **Backend**  | Python, Flask                             |
@@ -27,6 +27,7 @@ This project is a web-based application built with **Flask** and **CNN (Convolut
 
 
 ## 🗂️ Project Structure
+
 Potato-Leaf-Disease-Detection/
 │
 ├── app.py # Main Flask application
@@ -43,9 +44,13 @@ Potato-Leaf-Disease-Detection/
 ## How to Run the Project Locally
 
 1. Clone the Repository
+
 git clone https://github.com/yourusername/potato-leaf-disease-detection.git
+
 cd potato-leaf-disease-detection
+
 2. Install Dependencies
+
 pip install -r requirements.txt
  
      Or install manually:
@@ -53,6 +58,7 @@ pip install -r requirements.txt
 pip install flask tensorflow keras numpy pillow 
 
 3. Run the App
+
 python app.py
 
 
