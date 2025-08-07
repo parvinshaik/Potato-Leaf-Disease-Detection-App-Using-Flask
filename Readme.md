@@ -28,7 +28,7 @@ This project uses deep learning to identify and classify potato leaf diseases. A
 | **Utilities**| NumPy, Pillow, Werkzeug                          | NumPy for numerical operations, Pillow for image processing, Werkzeug for secure file uploads |
 
 
-## 🗂️ Project Structure
+ ## Project Structure 
 Potato-Leaf-Disease-Detection/
 │
 ├── app.py # Main Flask application
@@ -38,9 +38,10 @@ Potato-Leaf-Disease-Detection/
 │ └── index.html # HTML frontend
 ├── static/
 │ └── uploads/ # Folder for uploaded images
-├── dataset/ # Contains training/val data
+├── dataset/ # Contains training/validation data
 ├── README.md # Project documentation
 └── requirements.txt # Python dependencies
+
 
 
 ## How to Run the Project Locally
