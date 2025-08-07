@@ -20,12 +20,13 @@ This project uses deep learning to identify and classify potato leaf diseases. A
 
 ## Technologies Used
 
-| Category     |  Tools/Libraries                                  |   Usage 
-|--------------|------------------------------------------- ------ |--------------------------------------------------------
-| **Frontend** | HTML, CSS                                         | To design the user interface for uploading images and    |              |                                                   | viewing results
-| **Backend**  | Python, Flask                                     | Flask handles server-side logic and routes the uploaded  |              |                                                   | image to the model
-| **ML Model** | TensorFlow, Keras,CNN(Deep Learning)              | Used to build and train the Convolutional Neural Network |              |                                                   | (CNN) for image classification
-| **Utilities**| NumPy, Pillow, Werkzeug (for secure file upload)  | NumPy for numerical operations, Pillow for image                                                                              processing, Werkzeug for secure file uploads
+| Category     | Tools/Libraries                                  | Usage                                                                 |
+|--------------|--------------------------------------------------|-----------------------------------------------------------
+| **Frontend** | HTML, CSS                                        | To design the user interface for uploading images and viewing results |
+| **Backend**  | Python, Flask                                    | Flask handles server-side logic and routes the uploaded image to the model |
+| **ML Model** | TensorFlow, Keras, CNN (Deep Learning)           | Used to build and train the Convolutional Neural Network (CNN) for image classification |
+| **Utilities**| NumPy, Pillow, Werkzeug                          | NumPy for numerical operations, Pillow for image processing, Werkzeug for secure file uploads |
+
 
 ## 🗂️ Project Structure
 Potato-Leaf-Disease-Detection/
