@@ -1,4 +1,4 @@
-🍃 Potato Leaf Disease Detection using CNN
+🍃 Potato Leaf Disease Detection using CNN: 
 This is a web-based application developed using Flask and a Convolutional Neural Network (CNN) to detect diseases in potato leaves. The model can classify an uploaded potato leaf image into one of the following categories:
 
 ✅ Potato___Healthy
@@ -7,7 +7,7 @@ This is a web-based application developed using Flask and a Convolutional Neural
 
 ❌ Potato___Late_blight
 
-Project Description
+Project Description: 
 This project uses deep learning to identify and classify potato leaf diseases. A CNN model was trained using Keras and TensorFlow to accurately detect leaf conditions based on images. The model is integrated into a Flask web application that allows users to upload leaf images through a simple interface and receive instant predictions.
 
 ## Features
